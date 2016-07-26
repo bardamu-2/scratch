@@ -1,2 +1,2 @@
-# scratch
-test 7
+test 6
+clone 1
